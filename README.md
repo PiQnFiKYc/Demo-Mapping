@@ -1,2 +1,2 @@
 # Demo-Mapping
-Playing with leaf and mapbox
+Playing with leaflet and mapbox
